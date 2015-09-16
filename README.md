@@ -25,7 +25,7 @@ The best way to reach me is by email at abtran AT gmail.com. Or feel free to rea
 
 ##### Course Objective: 
 
-There more charts, maps, and interactives on news sites [than ever before](http://www.usatoday.com/story/money/business/2014/03/16/data-journalism-on-the-rise/6424671/). But data-driven news stories and graphics have been moving readers, impacting communities, and changing lives for hundreds of years.
+There are more charts, maps, and interactives on news sites [than ever before](http://www.usatoday.com/story/money/business/2014/03/16/data-journalism-on-the-rise/6424671/). But data-driven news stories and graphics have been moving readers, impacting communities, and changing lives for hundreds of years.
 
 According to the undergraduate catalog, this course is *Data Visualization*, but it's much more than that.
 
@@ -139,5 +139,5 @@ The breakdown for the final data story will be:
 - Storyboard (12.5 percent)
 - Draft (25 percent)
 - Final (25 percent)
-- Revisioni (12.5 percent
+- Revision (12.5 percent)
 
